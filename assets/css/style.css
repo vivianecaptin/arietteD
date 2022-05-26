@@ -477,6 +477,10 @@ li a {
     color: #fff;
     text-decoration: none;
 }
+li a:hover {
+    color: #F6A844;
+    text-decoration: none;
+}
 
 .flex-right{
     grid-column: 3/4;
